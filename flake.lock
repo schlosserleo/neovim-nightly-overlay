@@ -140,10 +140,10 @@
       "flake": false,
       "locked": {
         "lastModified": 1755630185,
-        "narHash": "sha256-5qSeN5QLDec1humHSa07KLSkde1x9oyuyJHf133qQ5I=",
+        "narHash": "sha256-Szq1rwNMyd2xcgMNvKmmtSAfGPwOkqU2QCZgZ9ot9ls=",
         "owner": "neovim",
         "repo": "neovim",
-        "rev": "3ec63cdab848f903d5e46245b7b2acbf7d5cc829",
+        "rev": "4a1295c6264864336a656bfbc69d25e620b8b814",
         "type": "github"
       },
       "original": {
